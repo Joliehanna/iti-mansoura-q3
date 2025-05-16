@@ -9,6 +9,7 @@ print("Hello ITI");
 
 return 0;
 }
+print("Hello world");
 
-long(){}
+
 
